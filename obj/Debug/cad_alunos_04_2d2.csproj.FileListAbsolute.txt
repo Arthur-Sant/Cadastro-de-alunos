@@ -1,0 +1,15 @@
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\bin\Debug\cad_alunos_04_2d2.exe.config
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\bin\Debug\cad_alunos_04_2d2.exe
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\bin\Debug\cad_alunos_04_2d2.pdb
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.csprojAssemblyReference.cache
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.frm_aluno.resources
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.Properties.Resources.resources
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.csproj.GenerateResource.cache
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.csproj.CoreCompileInputs.cache
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.exe
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.pdb
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.frm_menu.resources
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\bin\Debug\MySql.Data.dll
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\bin\Debug\MySql.Data.xml
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.csproj.CopyComplete
+C:\ESCOLA\TEP\Formulario\cad_alunos_04_2d2\obj\Debug\cad_alunos_04_2d2.cad_usuario.resources

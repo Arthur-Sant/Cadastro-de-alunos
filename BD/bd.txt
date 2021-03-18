@@ -1,0 +1,18 @@
+create table  cadastro_aluno2d2;
+use cadastro_aluno2d2;
+
+create table alunos(
+id int unsigned auto_increment not null primary key,
+nome varchar(60) not null,
+dt_nascimento date not null,
+sexo char(1) not null,
+foto varchar(150),
+nota double not null
+)engine=innodb;
+
+create table usuario(
+codigo int unsigned auto_increment not null primary key,
+nome varchar(80) not null,
+email varchar(100) not null,
+senha varchar(20) not null
+)engine=innodb
